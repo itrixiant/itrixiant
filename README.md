@@ -19,8 +19,10 @@ trixiant@sec-ops:~$ whoami
 > National OSINT Champion 2024 · Runner-Up 2023
 
 trixiant@sec-ops:~$ cat philosophy.txt
-> I don't process alerts. I follow traces.
-> The enemy reveals himself to those patient enough to watch in silence.
+<span style="color:#7A0C2E;">&gt; I don't process alerts. I follow traces.</span>
+<span style="color:#7A0C2E;">&gt; The enemy reveals himself to those patient enough to watch in silence.</span>
+</code>
+</pre>
 ```
 ### 🎖️ Rules of Engagement
 
