@@ -105,7 +105,7 @@ trixiant@sec-ops:~$ cat philosophy.txt
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=itrixiant&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14"/>
-
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itrixiant&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14"/>
 </p>
 ---
 
