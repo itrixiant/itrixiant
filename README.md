@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7A0C2E&height=180&section=header&text=TRIXIANT&fontSize=60&fontColor=E0F0FA&animation=fadeIn&fontAlignY=40&desc=Intelligence%20%26%20Cyber%20Security%20Operative&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:7A0C2E&height=180&section=header&text=TRIXIANT&fontSize=60&fontColor=E0F0FA&animation=fadeIn&fontAlignY=40&desc=Intelligence%20%26%20Cyber%20Security%20Operative&descAlignY=62&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A0C2E&center=true&vCenter=true&width=650&lines=H%C2%B7A+%2F%2F+SECURE+TERMINAL;IDENTITY%3A+HAMZA+ASHRAF+%2F%2F+TRIXIANT;STATUS%3A+OPERATIONAL;1ST+PLACE+%E2%80%94+NATIONAL+OSINT+CHAMPION+2024" alt="Typing SVG" />
 
@@ -117,7 +117,8 @@ trixiant@sec-ops:~$ cat philosophy.txt
 ### 🏅 Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=itrixiant&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=itrixiant&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
 </p>
 ---
 
