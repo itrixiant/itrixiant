@@ -101,4 +101,4 @@ trixiant@sec-ops:~$ cat philosophy.txt
   <a href="https://www.linkedin.com/in/hamza-ashraf60/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
 </p>
 
-<p align="center"><i>⚡ Available for intelligence & cyber security roles across Europe. Transmission ends. Session logged.</i></p>
+<p align="center"><i>⚡Transmission ends. Session logged.</i></p>
