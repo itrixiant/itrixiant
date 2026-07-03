@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=H%C2%B7A+%2F%2F+SECURE+TERMINAL;IDENTITY%3A+HAMZA+ASHRAF+%2F%2F+TRIXIANT;STATUS%3A+OPERATIONAL;1ST+PLACE+%E2%80%94+NATIONAL+OSINT+CHAMPION+2024" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A0C2E&center=true&vCenter=true&width=650&lines=H%C2%B7A+%2F%2F+SECURE+TERMINAL;IDENTITY%3A+HAMZA+ASHRAF+%2F%2F+TRIXIANT;STATUS%3A+OPERATIONAL;1ST+PLACE+%E2%80%94+NATIONAL+OSINT+CHAMPION+2024" alt="Typing SVG" />
 
 </div>
 
