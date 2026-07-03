@@ -8,6 +8,11 @@
 <h3 align="center">Hamza Ashraf — Intelligence & Cyber Security Specialist</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itrixiant&label=PROFILE+VIEWS&color=A31232&style=for-the-badge&labelColor=0d1117" />
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-39FF14?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/1ST_PLACE-National_OSINT_Champion_2024-E09800?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/BASED-Islamabad_%E2%86%92_Luxembourg_Q4_2026-informational?style=for-the-badge&labelColor=0d1117" />
@@ -27,11 +32,24 @@ trixiant@sec-ops:~$ cat philosophy.txt
 ---
 
 ### 📡 Currently
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🛡️ Leading intelligence-driven cybersecurity operations within **Pakistan's national security framework**
-- 🕵️ Running full-spectrum OSINT / GEOINT / IMINT / SOCMINT / HUMINT / TECHINT collection for senior government leadership
-- 🎯 3+ years turning open-source fragments into intelligence that actually gets acted on
-- 🌍 Relocating to **Luxembourg, Q4 2026** — open to intelligence & cyber security roles across Europe
+🛡️ Leading intelligence-driven cybersecurity operations within **Pakistan's national security framework**
+
+🕵️ Running full-spectrum OSINT / GEOINT / IMINT / SOCMINT / HUMINT / TECHINT collection for senior government leadership
+
+</td>
+<td width="50%" valign="top">
+
+🎯 3+ years turning open-source fragments into intelligence that actually gets acted on
+
+🌍 Relocating to **Luxembourg, Q4 2026** — open to intelligence & cyber security roles across Europe
+
+</td>
+</tr>
+</table>
 
 ### 🏆 National Recognition
 
@@ -74,6 +92,19 @@ trixiant@sec-ops:~$ cat philosophy.txt
   <img src="https://img.shields.io/badge/API--PT-APISEC_University-green?style=flat-square"/>
 </p>
 
+<details>
+<summary><b>🗂️ Full Methodology & Tradecraft Breakdown</b></summary>
+<br>
+
+- **Reconnaissance** — passive footprinting, metadata analysis, infrastructure mapping
+- **Collection** — SOCMINT sweeps, HUMINT elicitation techniques, technical surveillance countermeasures
+- **Analysis** — pattern-of-life construction, link analysis, timeline reconstruction
+- **Reporting** — CVSS-scored findings, executive-ready threat briefs
+
+*Full write-ups available on [my portfolio](https://itrixiant.github.io/).*
+
+</details>
+
 `BSc Cyber Security` — Air University, Islamabad · **Pioneer Batch**, Pakistan's first dedicated Cyber Security cohort
 
 ---
@@ -102,3 +133,5 @@ trixiant@sec-ops:~$ cat philosophy.txt
 </p>
 
 <p align="center"><i>⚡Transmission ends. Session logged.</i></p>
+<p align="center">⭐ If this profile gave you an idea worth stealing, star it.</p>
+
