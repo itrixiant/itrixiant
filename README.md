@@ -92,26 +92,16 @@ trixiant@sec-ops:~$ cat philosophy.txt
   <img src="https://img.shields.io/badge/API--PT-APISEC_University-green?style=flat-square"/>
 </p>
 
-<details>
-<summary><b>🗂️ Full Methodology & Tradecraft Breakdown</b></summary>
-<br>
-
-- **Reconnaissance** — passive footprinting, metadata analysis, infrastructure mapping
-- **Collection** — SOCMINT sweeps, HUMINT elicitation techniques, technical surveillance countermeasures
-- **Analysis** — pattern-of-life construction, link analysis, timeline reconstruction
-- **Reporting** — CVSS-scored findings, executive-ready threat briefs
-
-*Full write-ups available on [my portfolio](https://itrixiant.github.io/).*
-
-</details>
-
 `BSc Cyber Security` — Air University, Islamabad · **Pioneer Batch**, Pakistan's first dedicated Cyber Security cohort
 
 ---
 
 ### 📡 Featured Operation
 
-**[itrixiant.github.io](https://itrixiant.github.io/)** — full intelligence & cyber security portfolio: live OSINT case studies, penetration test walkthroughs (with CVSS-scored findings), professional experience, and complete tradecraft methodology.
+**[itrixiant.github.io](https://itrixiant.github.io/)**
+
+> Full case files. Real findings. No redactions.
+> OSINT investigations · Pentest walkthroughs (CVSS-scored) · Complete tradecraft methodology.
 
 ---
 
