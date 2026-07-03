@@ -59,27 +59,9 @@ trixiant@sec-ops:~$ cat philosophy.txt
 
 ### 🎯 Disciplines
 
-### 🎯 Disciplines
-
-**Intelligence**
-<p>
-<img src="https://img.shields.io/badge/DISC-OSINT-A31232?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/DISC-GEOINT-A31232?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/DISC-IMINT-A31232?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/DISC-SOCMINT-A31232?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/DISC-HUMINT-A31232?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/DISC-TECHINT-A31232?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/DISC-WEBINT-A31232?style=for-the-badge&labelColor=0d1117"/>
-</p>
-
-**Cyber Security**
-<p>
-<img src="https://img.shields.io/badge/SEC-VAPT-E09800?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/SEC-Red_Team-E09800?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/SEC-Threat_Intel-E09800?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/SEC-Detection_Engineering-E09800?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/SEC-Hardware_Security-E09800?style=for-the-badge&labelColor=0d1117"/>
-</p>
+**Intelligence** — `OSINT` `GEOINT` `IMINT` `SOCMINT` `HUMINT` `TECHINT` `WEBINT`
+<br>
+**Cyber Security** — `VAPT` `Red Team` `Threat Intel` `Detection Engineering` `Hardware Security`
 
 ### 🛠️ Arsenal
 
@@ -131,7 +113,7 @@ trixiant@sec-ops:~$ cat philosophy.txt
 <p align="center">
   <a href="https://itrixiant.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14"/></a>
   <a href="mailto:hamzaashraf107@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
-  <a href="https://www.linkedin.com/in/hamza-ashraf60/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
+  <a href="https://www.linkedin.com/in/hamza-ashraf60/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>⚡Transmission ends. Session logged.</i></p>
