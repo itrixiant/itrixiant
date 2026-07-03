@@ -59,8 +59,25 @@ trixiant@sec-ops:~$ cat philosophy.txt
 
 ### 🎯 Disciplines
 
-**Intelligence** — `OSINT` `GEOINT` `IMINT` `SOCMINT` `HUMINT` `TECHINT` `WEBINT`
-**Cyber Security** — `VAPT` `Red Team` `Threat Intel` `Detection Engineering` `Hardware Security`
+**Intelligence**
+<p>
+<img src="https://img.shields.io/badge/OSINT-A31232?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GEOINT-A31232?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/IMINT-A31232?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SOCMINT-A31232?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/HUMINT-A31232?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TECHINT-A31232?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/WEBINT-A31232?style=flat-square&labelColor=0d1117"/>
+</p>
+
+**Cyber Security**
+<p>
+<img src="https://img.shields.io/badge/VAPT-E09800?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Red_Team-E09800?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Threat_Intel-E09800?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Detection_Engineering-E09800?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Hardware_Security-E09800?style=flat-square&labelColor=0d1117"/>
+</p>
 
 ### 🛠️ Arsenal
 
@@ -104,13 +121,12 @@ trixiant@sec-ops:~$ cat philosophy.txt
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=itrixiant&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itrixiant&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=itrixiant&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14"/>
 </p>
 ---
 
 ### 📡 Contact
-
-<p align="centre">
+<p align="center">
   <a href="https://itrixiant.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14"/></a>
   <a href="mailto:hamzaashraf107@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
   <a href="https://www.linkedin.com/in/hamza-ashraf60/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
