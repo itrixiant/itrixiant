@@ -8,7 +8,7 @@
 <h3 align="center">Hamza Ashraf — Intelligence & Cyber Security Specialist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-A31232?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-39FF14?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/1ST_PLACE-National_OSINT_Champion_2024-E09800?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/BASED-Islamabad_%E2%86%92_Luxembourg_Q4_2026-informational?style=for-the-badge&labelColor=0d1117" />
 </p>
