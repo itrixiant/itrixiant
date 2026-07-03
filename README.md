@@ -106,6 +106,7 @@ trixiant@sec-ops:~$ cat philosophy.txt
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=itrixiant&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14"/>
   <img height="165" src="https://streak-stats.demolab.com/?user=itrixiant&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14"/>
+
 </p>
 ---
 
@@ -113,7 +114,7 @@ trixiant@sec-ops:~$ cat philosophy.txt
 <p align="center">
   <a href="https://itrixiant.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14"/></a>
   <a href="mailto:hamzaashraf107@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
-  <a href="https://www.linkedin.com/in/hamza-ashraf60/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hamza-ashraf60/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>⚡Transmission ends. Session logged.</i></p>
