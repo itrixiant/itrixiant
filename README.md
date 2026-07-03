@@ -59,24 +59,26 @@ trixiant@sec-ops:~$ cat philosophy.txt
 
 ### 🎯 Disciplines
 
+### 🎯 Disciplines
+
 **Intelligence**
 <p>
-<img src="https://img.shields.io/badge/OSINT-A31232?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/GEOINT-A31232?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/IMINT-A31232?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/SOCMINT-A31232?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/HUMINT-A31232?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/TECHINT-A31232?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/WEBINT-A31232?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DISC-OSINT-A31232?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DISC-GEOINT-A31232?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DISC-IMINT-A31232?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DISC-SOCMINT-A31232?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DISC-HUMINT-A31232?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DISC-TECHINT-A31232?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DISC-WEBINT-A31232?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 **Cyber Security**
 <p>
-<img src="https://img.shields.io/badge/VAPT-E09800?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Red_Team-E09800?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Threat_Intel-E09800?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Detection_Engineering-E09800?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Hardware_Security-E09800?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SEC-VAPT-E09800?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SEC-Red_Team-E09800?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SEC-Threat_Intel-E09800?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SEC-Detection_Engineering-E09800?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SEC-Hardware_Security-E09800?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 ### 🛠️ Arsenal
