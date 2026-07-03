@@ -8,11 +8,6 @@
 <h3 align="center">Hamza Ashraf — Intelligence & Cyber Security Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itrixiant&label=PROFILE+VIEWS&color=A31232&style=for-the-badge&labelColor=0d1117" />
-</p>
-
-
-<p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-39FF14?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/1ST_PLACE-National_OSINT_Champion_2024-E09800?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/BASED-Islamabad_%E2%86%92_Luxembourg_Q4_2026-informational?style=for-the-badge&labelColor=0d1117" />
@@ -111,12 +106,11 @@ trixiant@sec-ops:~$ cat philosophy.txt
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=itrixiant&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itrixiant&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14"/>
 </p>
-
 ---
 
 ### 📡 Contact
 
-<p align="left">
+<p align="centre">
   <a href="https://itrixiant.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14"/></a>
   <a href="mailto:hamzaashraf107@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
   <a href="https://www.linkedin.com/in/hamza-ashraf60/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
@@ -124,4 +118,7 @@ trixiant@sec-ops:~$ cat philosophy.txt
 
 <p align="center"><i>⚡Transmission ends. Session logged.</i></p>
 <p align="center">⭐ If this profile gave you an idea worth stealing, star it.</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itrixiant&label=PROFILE+VIEWS&color=A31232&style=for-the-badge&labelColor=0d1117" />
+</p>
 
