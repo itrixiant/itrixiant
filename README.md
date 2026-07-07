@@ -108,8 +108,7 @@ trixiant@sec-ops:~$ cat philosophy.txt
 ### 📊 Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itrixiant&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=itrixiant&theme=dark&background=0d1117&ring=39FF14&fire=39FF14"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=itrixiant&theme=react-dark&bg_color=0d1117&color=39FF14&line=A31232&point=E09800" width="100%"/>
 </p>
 
 ---
