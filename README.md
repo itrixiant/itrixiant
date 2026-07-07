@@ -107,9 +107,10 @@ trixiant@sec-ops:~$ cat philosophy.txt
 
 ### 📊 Stats
 
-<p align="left">
+<p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itrixiant&theme=react-dark&bg_color=0d1117&color=39FF14&line=A31232&point=E09800" width="100%"/>
 </p>
+
 ---
 
 ### 📡 Contact
