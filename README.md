@@ -116,7 +116,7 @@ trixiant@sec-ops:~$ cat philosophy.txt
 ### 📡 Contact
 <p align="center">
   <a href="https://itrixiant.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14"/></a>
-  <a href="mailto:hamzaashraf107@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
+  <a href="mailto:trixiant@proton.me"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
   <a href="https://www.linkedin.com/in/hamza-ashraf60/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin-white&logoColor=fff"/></a>
 </p>
 
